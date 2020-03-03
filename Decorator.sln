@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{1BD92306-7271-4578-9DA2-4972C48B0CDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnadwichTests", "..\Tests\SnadwichTests\SnadwichTests.csproj", "{4F4500AE-F095-49BC-974B-72EB2E1F86D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BD92306-7271-4578-9DA2-4972C48B0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD92306-7271-4578-9DA2-4972C48B0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD92306-7271-4578-9DA2-4972C48B0CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4500AE-F095-49BC-974B-72EB2E1F86D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4500AE-F095-49BC-974B-72EB2E1F86D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4500AE-F095-49BC-974B-72EB2E1F86D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4500AE-F095-49BC-974B-72EB2E1F86D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
